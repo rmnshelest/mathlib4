@@ -7,6 +7,9 @@ import Mathlib.Data.Fin.Tuple.NatAntidiagonal
 # Testing computability (and runtime) of antidiagonal
 -/
 
+/-!
+
+-/
 open Finset
 
 section
